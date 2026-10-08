@@ -1,0 +1,25 @@
+# Xyvot
+
+> Xyvot is the instant commerce platform connecting local shops with customers.
+> Groceries and essentials delivered in 15 minutes.
+
+Xyvot is a quick-commerce platform based in India. It operates three sides of a marketplace:
+
+- **Customers** shop groceries and daily essentials from neighbourhood stores via https://shop.xyvot.com with 15-minute express delivery, live order tracking, and WhatsApp OTP login.
+- **Businesses** run their entire operation on the Xyvot merchant platform via https://business.xyvot.com — online storefront, inventory management, POS billing, GST-ready invoicing, and automatic rider dispatch.
+- **Delivery partners** earn by delivering nearby orders via https://rider.xyvot.com with flexible shifts and transparent per-delivery earnings.
+
+## Key facts
+
+- Company: Xyvot
+- Website: https://www.xyvot.com
+- Marketplace: https://shop.xyvot.com
+- Business platform: https://business.xyvot.com
+- Rider app: https://rider.xyvot.com
+- Category: Quick commerce / instant delivery / hyperlocal marketplace
+- Region: India
+- Delivery promise: ~15 minutes for groceries and essentials
+
+## Pages
+
+- [Home](https://www.xyvot.com): Company overview, value propositions for customers, businesses, and riders, how it works, FAQ.
